@@ -8,7 +8,7 @@ Simple landing page with just the navigation menu, the main content of the page 
 
 ## Demo
 
-
+https://landing-page-taupe-theta.vercel.app/
 
 ## Project Features
 
@@ -45,7 +45,7 @@ Simple landing page with just the navigation menu, the main content of the page 
 Clone the project
 
 ```bash
-  git clone https://github.com/victorhubarb/SkillUp
+  git clone https://github.com/victorhubarb/Landing-Page
 ```
 
 ## Future Implementations
